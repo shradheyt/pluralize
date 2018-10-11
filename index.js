@@ -83,9 +83,3 @@ const ABERRANT_PLURAL_MAP = {
     function getSubstringFromLast(string, pos) {
         return string.substring(0, string.length - pos);
     }
-
-    console.log(pluralize('veto'));
-    console.log(pluralize('nucleus'));
-    console.log(pluralize('car'));
-    console.log(pluralize('knife'));
-    console.log(pluralize('woman'));
